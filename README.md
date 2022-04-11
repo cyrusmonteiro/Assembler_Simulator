@@ -1,13 +1,8 @@
-# CO M21 Assignment
-Starter repository for Computer Organization, Monsoon 2021 semester, assignment at IIITD
+Built from scratch a fully functional Assembler that converts a given assembly language to binary code followed by a Simulator that carries out operations based on this binary code.
 
-## Adding code
-* Add the assembler code in the `Simple-Assembler` directory. Add the commands to execute the assembler in `Simple-Assembler/run`.
-* Add the simulator code in the `SimpleSimulator` directory. Add the commands to execute the assembler in `SimpleSimulator/run`.
-* Make sure that both the assembler and the simulator read from `stdin`.
-* Make sure that both the assembler and the simulator write to `stdout`.
+Steps to run and ISA assembly code syntax given in Assignment.pdf
 
-## How to evaluate
+Automated Testing:
 * Go to the `automatedTesting` directory and execute the `run` file with appropiate options passed as arguments.
 * Options available for automated testing:
 	1. `--verbose`: Prints verbose output
